@@ -8,3 +8,4 @@ Python, Pandas, Matplotlib, Google Maps API, Google Places API, OpenWeatherMap A
 
 ## Summary
 ![](Vacation_Itinerary/WeatherPy_travel_map.png)
+![](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
