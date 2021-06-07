@@ -5,3 +5,6 @@ Users can generate an itinerary to 4 different cities by inputting the minimum a
 
 ## Tools
 Python, Pandas, Matplotlib, Google Maps API, Google Places API, OpenWeatherMap API
+
+## Summary
+![](Vacation_Itinerary/WeatherPy_travel_map.png)
